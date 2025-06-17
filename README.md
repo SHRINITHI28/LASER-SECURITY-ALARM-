@@ -16,10 +16,9 @@ This is a discrete electronics project developed in **Semester 2** as a mini pro
 - Falstad (Simulation)
 - Fusion 360 (Casing)
 - Hand-soldered PCB (No microcontroller)
-- 
+
 ## LINKED IN:(CONNECT VIA LINKED IN FOR DEMO VIDEO ACCESS)
-- (https://github.com/YourUsername/YourRepo/blob/main/Snapchat-287470072.mp4?raw=true)
-- 
+-(https://www.linkedin.com/in/shrinithi-k-l-715274349)
 ## 📄 Project Report
 📎 [View Full PDF Report](https://drive.google.com/file/d/13TWI7VMLKbAiV_5QRt-b4MF4SJHu5l09/view?usp=drivesdk)
 
