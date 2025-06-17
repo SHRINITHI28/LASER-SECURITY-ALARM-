@@ -18,7 +18,7 @@ This is a discrete electronics project developed in **Semester 2** as a mini pro
 - Hand-soldered PCB (No microcontroller)
 
 ## 🎥 Demo Video
-[Watch our working demo video](https://vimeo.com/954679508)
+[Watch our working demo video](WhatsApp Video 2025-06-17 at 12.49.36_84f8b468.mp4)
 
 ## 📄 Project Report
 📎 [View Full PDF Report](https://drive.google.com/file/d/13TWI7VMLKbAiV_5QRt-b4MF4SJHu5l09/view?usp=drivesdk)
