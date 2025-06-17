@@ -16,20 +16,16 @@ This is a discrete electronics project developed in **Semester 2** as a mini pro
 - Falstad (Simulation)
 - Fusion 360 (Casing)
 - Hand-soldered PCB (No microcontroller)
-- No KiCad used
 
 ## 🎥 Demo Video
-[Watch our working demo video](https://drive.google.com/file/d/13TWI7VMLKbAiV_5QRt-b4MF4SJHu5l09/view?usp=drivesdk)
-
-## 🖼️ Demo Snapshot
-![Snapshot](images/demo_snapshot.jpg)
+[Watch our working demo video](https://vimeo.com/954679508)
 
 ## 📄 Project Report
-📎 [View Full PDF Report](media/FED_REPORT.pdf)
+📎 [View Full PDF Report](https://drive.google.com/file/d/13TWI7VMLKbAiV_5QRt-b4MF4SJHu5l09/view?usp=drivesdk)
 
 ## 📁 Files Included
 - Report PDF (Semester 2 submission)
-- Demo snapshot
+- Demo video
 - README documentation
 
 ## 💡 Future Scope
