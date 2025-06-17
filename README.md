@@ -16,16 +16,15 @@ This is a discrete electronics project developed in **Semester 2** as a mini pro
 - Falstad (Simulation)
 - Fusion 360 (Casing)
 - Hand-soldered PCB (No microcontroller)
-
-## 🎥 Demo Video
-[Watch our working demo video]((https://github.com/SHRINITHIKL/LASERSECURITYALARM/blob/main/Snapchat-287470072.mp4?raw=true)
-
+- 
+## LINKED IN:(CONNECT VIA LINKED IN FOR DEMO VIDEO ACCESS)
+- (https://github.com/YourUsername/YourRepo/blob/main/Snapchat-287470072.mp4?raw=true)
+- 
 ## 📄 Project Report
 📎 [View Full PDF Report](https://drive.google.com/file/d/13TWI7VMLKbAiV_5QRt-b4MF4SJHu5l09/view?usp=drivesdk)
 
 ## 📁 Files Included
 - Report PDF (Semester 2 submission)
-- Demo video
 - README documentation
 
 ## 💡 Future Scope
